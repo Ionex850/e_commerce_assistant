@@ -1,0 +1,2492 @@
+{
+  "laptop": {
+    "search_term": "laptop",
+    "products": [
+      {
+        "product_id": "lap_001",
+        "title": "Apex Pro Plus",
+        "brand": "Apex",
+        "category": "laptop",
+        "price": 91692,
+        "mrp": 104195,
+        "discount_percent": 12,
+        "rating": 3.9,
+        "review_count": 916,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Battery life easily lasts through a workday."
+          },
+          {
+            "rating": 3,
+            "title": "Solid pick",
+            "text": "Fan noise stays low under normal use."
+          },
+          {
+            "rating": 3,
+            "title": "Nice purchase",
+            "text": "A good choice for students and office work."
+          },
+          {
+            "rating": 3,
+            "title": "Good value",
+            "text": "Build quality feels premium for the price."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Fast performance and excellent multitasking."
+          }
+        ],
+        "specifications": {
+          "processor": "AMD Ryzen 5 7530U",
+          "ram": "8 GB LPDDR5",
+          "storage": "512 GB SSD",
+          "display": "16-inch WQXGA IPS",
+          "graphics": "Integrated",
+          "battery": "12 hours",
+          "weight": "1.45 kg",
+          "os": "Linux"
+        },
+        "bank_offers": [
+          {
+            "bank": "ICICI Bank",
+            "offer": "Additional 10% off on select cards"
+          },
+          {
+            "bank": "Kotak Bank",
+            "offer": "No-cost EMI for 6 months"
+          }
+        ],
+        "availability": "Limited stock"
+      },
+      {
+        "product_id": "lap_002",
+        "title": "Apex Prime S",
+        "brand": "Apex",
+        "category": "laptop",
+        "price": 166122,
+        "mrp": 180567,
+        "discount_percent": 8,
+        "rating": 4.8,
+        "review_count": 1928,
+        "top_reviews": [
+          {
+            "rating": 5,
+            "title": "Worth it",
+            "text": "A good choice for students and office work."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Fast performance and excellent multitasking."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Build quality feels premium for the price."
+          },
+          {
+            "rating": 5,
+            "title": "Good value",
+            "text": "Display is sharp and colors look accurate."
+          },
+          {
+            "rating": 5,
+            "title": "Recommended",
+            "text": "Fan noise stays low under normal use."
+          }
+        ],
+        "specifications": {
+          "processor": "AMD Ryzen 7 7840U",
+          "ram": "16 GB LPDDR5",
+          "storage": "512 GB SSD",
+          "display": "14-inch QHD IPS",
+          "graphics": "Integrated",
+          "battery": "10 hours",
+          "weight": "1.1 kg",
+          "os": "macOS"
+        },
+        "bank_offers": [
+          {
+            "bank": "HDFC Bank",
+            "offer": "Cashback of 7% up to 2000"
+          },
+          {
+            "bank": "ICICI Bank",
+            "offer": "No-cost EMI for 9 months"
+          }
+        ],
+        "availability": "Limited stock"
+      },
+      {
+        "product_id": "lap_003",
+        "title": "ZenCore Pro Pro",
+        "brand": "ZenCore",
+        "category": "laptop",
+        "price": 154718,
+        "mrp": 188681,
+        "discount_percent": 18,
+        "rating": 3.9,
+        "review_count": 1952,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Storage is fast and app loading is smooth."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Keyboard feel is comfortable for long typing sessions."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Fan noise stays low under normal use."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "A good choice for students and office work."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Battery life easily lasts through a workday."
+          }
+        ],
+        "specifications": {
+          "processor": "Apple M3",
+          "ram": "16 GB LPDDR5",
+          "storage": "512 GB SSD",
+          "display": "13.3-inch FHD IPS",
+          "graphics": "NVIDIA RTX 4060",
+          "battery": "12 hours",
+          "weight": "1.1 kg",
+          "os": "macOS"
+        },
+        "bank_offers": [
+          {
+            "bank": "Kotak Bank",
+            "offer": "Instant discount of 10% up to 1000"
+          },
+          {
+            "bank": "Axis Bank",
+            "offer": "Exchange bonus up to 1000"
+          }
+        ],
+        "availability": "Limited stock"
+      },
+      {
+        "product_id": "lap_004",
+        "title": "NovaTech Ultra",
+        "brand": "NovaTech",
+        "category": "laptop",
+        "price": 76331,
+        "mrp": 109044,
+        "discount_percent": 30,
+        "rating": 4.5,
+        "review_count": 1768,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Battery life easily lasts through a workday."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "A good choice for students and office work."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Fan noise stays low under normal use."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Display is sharp and colors look accurate."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Storage is fast and app loading is smooth."
+          }
+        ],
+        "specifications": {
+          "processor": "Intel Core i7-1360P",
+          "ram": "32 GB LPDDR5",
+          "storage": "512 GB SSD",
+          "display": "14-inch QHD IPS",
+          "graphics": "Apple integrated GPU",
+          "battery": "12 hours",
+          "weight": "1.7 kg",
+          "os": "Linux"
+        },
+        "bank_offers": [
+          {
+            "bank": "Axis Bank",
+            "offer": "Instant discount of 5% up to 1500"
+          },
+          {
+            "bank": "HDFC Bank",
+            "offer": "Additional 10% off on select cards"
+          }
+        ],
+        "availability": "Limited stock"
+      },
+      {
+        "product_id": "lap_005",
+        "title": "Apex Air Pro",
+        "brand": "Apex",
+        "category": "laptop",
+        "price": 46562,
+        "mrp": 56783,
+        "discount_percent": 18,
+        "rating": 3.7,
+        "review_count": 1947,
+        "top_reviews": [
+          {
+            "rating": 3,
+            "title": "Worth it",
+            "text": "Keyboard feel is comfortable for long typing sessions."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Build quality feels premium for the price."
+          },
+          {
+            "rating": 3,
+            "title": "Nice purchase",
+            "text": "Battery life easily lasts through a workday."
+          },
+          {
+            "rating": 3,
+            "title": "Good value",
+            "text": "Fast performance and excellent multitasking."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "A good choice for students and office work."
+          }
+        ],
+        "specifications": {
+          "processor": "Intel Core i5-1335U",
+          "ram": "32 GB LPDDR5",
+          "storage": "512 GB SSD",
+          "display": "13.3-inch FHD IPS",
+          "graphics": "Apple integrated GPU",
+          "battery": "12 hours",
+          "weight": "1.1 kg",
+          "os": "Windows 11"
+        },
+        "bank_offers": [
+          {
+            "bank": "HDFC Bank",
+            "offer": "Exchange bonus up to 5000"
+          },
+          {
+            "bank": "Kotak Bank",
+            "offer": "Exchange bonus up to 2500"
+          }
+        ],
+        "availability": "In stock"
+      },
+      {
+        "product_id": "lap_006",
+        "title": "NovaTech Edge S",
+        "brand": "NovaTech",
+        "category": "laptop",
+        "price": 61397,
+        "mrp": 76746,
+        "discount_percent": 20,
+        "rating": 3.9,
+        "review_count": 926,
+        "top_reviews": [
+          {
+            "rating": 3,
+            "title": "Worth it",
+            "text": "Storage is fast and app loading is smooth."
+          },
+          {
+            "rating": 3,
+            "title": "Solid pick",
+            "text": "Battery life easily lasts through a workday."
+          },
+          {
+            "rating": 3,
+            "title": "Nice purchase",
+            "text": "Fast performance and excellent multitasking."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Keyboard feel is comfortable for long typing sessions."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Fan noise stays low under normal use."
+          }
+        ],
+        "specifications": {
+          "processor": "Intel Core i5-1335U",
+          "ram": "32 GB LPDDR5",
+          "storage": "512 GB SSD",
+          "display": "14-inch QHD IPS",
+          "graphics": "Integrated",
+          "battery": "8 hours",
+          "weight": "1.7 kg",
+          "os": "Linux"
+        },
+        "bank_offers": [
+          {
+            "bank": "Axis Bank",
+            "offer": "Exchange bonus up to 5000"
+          },
+          {
+            "bank": "Yes Bank",
+            "offer": "Cashback of 7% up to 5000"
+          }
+        ],
+        "availability": "Preorder"
+      },
+      {
+        "product_id": "lap_007",
+        "title": "NovaTech Pro",
+        "brand": "NovaTech",
+        "category": "laptop",
+        "price": 81614,
+        "mrp": 88711,
+        "discount_percent": 8,
+        "rating": 4.4,
+        "review_count": 316,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Keyboard feel is comfortable for long typing sessions."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Storage is fast and app loading is smooth."
+          },
+          {
+            "rating": 5,
+            "title": "Nice purchase",
+            "text": "Fast performance and excellent multitasking."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Build quality feels premium for the price."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Battery life easily lasts through a workday."
+          }
+        ],
+        "specifications": {
+          "processor": "Intel Core i7-1360P",
+          "ram": "16 GB LPDDR5",
+          "storage": "1 TB SSD",
+          "display": "14-inch FHD IPS",
+          "graphics": "Apple integrated GPU",
+          "battery": "12 hours",
+          "weight": "1.1 kg",
+          "os": "Linux"
+        },
+        "bank_offers": [
+          {
+            "bank": "ICICI Bank",
+            "offer": "Instant discount of 7% up to 1500"
+          },
+          {
+            "bank": "SBI Card",
+            "offer": "Cashback of 5% up to 1000"
+          }
+        ],
+        "availability": "Preorder"
+      },
+      {
+        "product_id": "lap_008",
+        "title": "ZenCore Prime",
+        "brand": "ZenCore",
+        "category": "laptop",
+        "price": 63922,
+        "mrp": 75202,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "review_count": 343,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Battery life easily lasts through a workday."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Fan noise stays low under normal use."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Build quality feels premium for the price."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Storage is fast and app loading is smooth."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Display is sharp and colors look accurate."
+          }
+        ],
+        "specifications": {
+          "processor": "Intel Core i7-1360P",
+          "ram": "32 GB LPDDR5",
+          "storage": "512 GB SSD",
+          "display": "14-inch QHD IPS",
+          "graphics": "NVIDIA RTX 3050",
+          "battery": "14 hours",
+          "weight": "1.25 kg",
+          "os": "Windows 11"
+        },
+        "bank_offers": [
+          {
+            "bank": "Kotak Bank",
+            "offer": "Instant discount of 10% up to 500"
+          },
+          {
+            "bank": "Axis Bank",
+            "offer": "Instant discount of 10% up to 1000"
+          }
+        ],
+        "availability": "Limited stock"
+      },
+      {
+        "product_id": "lap_009",
+        "title": "ZenCore Pro Plus",
+        "brand": "ZenCore",
+        "category": "laptop",
+        "price": 83661,
+        "mrp": 95069,
+        "discount_percent": 12,
+        "rating": 4.4,
+        "review_count": 131,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Fan noise stays low under normal use."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "A good choice for students and office work."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Build quality feels premium for the price."
+          },
+          {
+            "rating": 5,
+            "title": "Good value",
+            "text": "Keyboard feel is comfortable for long typing sessions."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Battery life easily lasts through a workday."
+          }
+        ],
+        "specifications": {
+          "processor": "Intel Core i7-1360P",
+          "ram": "16 GB LPDDR5",
+          "storage": "1 TB SSD",
+          "display": "14-inch QHD IPS",
+          "graphics": "Integrated",
+          "battery": "12 hours",
+          "weight": "1.45 kg",
+          "os": "Linux"
+        },
+        "bank_offers": [
+          {
+            "bank": "ICICI Bank",
+            "offer": "Instant discount of 12% up to 7500"
+          },
+          {
+            "bank": "SBI Card",
+            "offer": "No-cost EMI for 6 months"
+          }
+        ],
+        "availability": "Preorder"
+      },
+      {
+        "product_id": "lap_010",
+        "title": "Mira Prime Plus",
+        "brand": "Mira",
+        "category": "laptop",
+        "price": 43455,
+        "mrp": 47234,
+        "discount_percent": 8,
+        "rating": 4.7,
+        "review_count": 2112,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Build quality feels premium for the price."
+          },
+          {
+            "rating": 5,
+            "title": "Solid pick",
+            "text": "Battery life easily lasts through a workday."
+          },
+          {
+            "rating": 5,
+            "title": "Nice purchase",
+            "text": "Storage is fast and app loading is smooth."
+          },
+          {
+            "rating": 5,
+            "title": "Good value",
+            "text": "Display is sharp and colors look accurate."
+          },
+          {
+            "rating": 5,
+            "title": "Recommended",
+            "text": "Fast performance and excellent multitasking."
+          }
+        ],
+        "specifications": {
+          "processor": "AMD Ryzen 5 7530U",
+          "ram": "32 GB LPDDR5",
+          "storage": "1 TB SSD",
+          "display": "14-inch QHD IPS",
+          "graphics": "Apple integrated GPU",
+          "battery": "12 hours",
+          "weight": "1.25 kg",
+          "os": "Windows 11"
+        },
+        "bank_offers": [
+          {
+            "bank": "Kotak Bank",
+            "offer": "Additional 5% off on select cards"
+          },
+          {
+            "bank": "Yes Bank",
+            "offer": "Cashback of 5% up to 2000"
+          }
+        ],
+        "availability": "Limited stock"
+      }
+    ]
+  },
+  "vacuum cleaner": {
+    "search_term": "vacuum cleaner",
+    "products": [
+      {
+        "product_id": "vac_001",
+        "title": "VacuPro Turbo Plus",
+        "brand": "VacuPro",
+        "category": "vacuum cleaner",
+        "price": 12814,
+        "mrp": 18305,
+        "discount_percent": 30,
+        "rating": 4.6,
+        "review_count": 2392,
+        "top_reviews": [
+          {
+            "rating": 5,
+            "title": "Worth it",
+            "text": "Accessories are useful for corners and upholstery."
+          },
+          {
+            "rating": 5,
+            "title": "Solid pick",
+            "text": "Noise level is reasonable for daily use."
+          },
+          {
+            "rating": 5,
+            "title": "Nice purchase",
+            "text": "Lightweight design makes cleaning easier."
+          },
+          {
+            "rating": 5,
+            "title": "Good value",
+            "text": "Battery lasts long enough for a full room clean."
+          },
+          {
+            "rating": 5,
+            "title": "Recommended",
+            "text": "Works well on both hard floors and carpets."
+          }
+        ],
+        "specifications": {
+          "type": "Cordless Stick",
+          "suction": "25000 Pa",
+          "bin_capacity": "1.2 L",
+          "battery": "90 min",
+          "weight": "2.8 kg",
+          "noise": "68 dB",
+          "filters": "Multi-cyclone",
+          "features": [
+            "Edge cleaning",
+            "HEPA filtration",
+            "Wet mop"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "Yes Bank",
+            "offer": "No-cost EMI for 9 months"
+          },
+          {
+            "bank": "ICICI Bank",
+            "offer": "Exchange bonus up to 1000"
+          }
+        ],
+        "availability": "In stock"
+      },
+      {
+        "product_id": "vac_002",
+        "title": "DustAway Neo S",
+        "brand": "DustAway",
+        "category": "vacuum cleaner",
+        "price": 4651,
+        "mrp": 6644,
+        "discount_percent": 30,
+        "rating": 4.0,
+        "review_count": 365,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Lightweight design makes cleaning easier."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Battery lasts long enough for a full room clean."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Auto mode is convenient and reliable."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Works well on both hard floors and carpets."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Noise level is reasonable for daily use."
+          }
+        ],
+        "specifications": {
+          "type": "Cordless Stick",
+          "suction": "18000 Pa",
+          "bin_capacity": "0.6 L",
+          "battery": "90 min",
+          "weight": "2.8 kg",
+          "noise": "68 dB",
+          "filters": "HEPA",
+          "features": [
+            "Pet hair mode",
+            "HEPA filtration",
+            "Wet mop"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "Axis Bank",
+            "offer": "Exchange bonus up to 1500"
+          },
+          {
+            "bank": "SBI Card",
+            "offer": "Additional 10% off on select cards"
+          }
+        ],
+        "availability": "Preorder"
+      },
+      {
+        "product_id": "vac_003",
+        "title": "VacuPro Max",
+        "brand": "VacuPro",
+        "category": "vacuum cleaner",
+        "price": 9421,
+        "mrp": 11776,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "review_count": 2222,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Strong suction picks up dust and crumbs well."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Works well on both hard floors and carpets."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Accessories are useful for corners and upholstery."
+          },
+          {
+            "rating": 5,
+            "title": "Good value",
+            "text": "Battery lasts long enough for a full room clean."
+          },
+          {
+            "rating": 5,
+            "title": "Recommended",
+            "text": "Dustbin is easy to empty and clean."
+          }
+        ],
+        "specifications": {
+          "type": "Corded Upright",
+          "suction": "25000 Pa",
+          "bin_capacity": "0.4 L",
+          "battery": "30 min",
+          "weight": "4.6 kg",
+          "noise": "68 dB",
+          "filters": "Washable filter",
+          "features": [
+            "Wet mop",
+            "Edge cleaning",
+            "HEPA filtration"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "Kotak Bank",
+            "offer": "Exchange bonus up to 5000"
+          },
+          {
+            "bank": "Yes Bank",
+            "offer": "Additional 5% off on select cards"
+          }
+        ],
+        "availability": "Limited stock"
+      },
+      {
+        "product_id": "vac_004",
+        "title": "PureSweep Turbo S",
+        "brand": "PureSweep",
+        "category": "vacuum cleaner",
+        "price": 12881,
+        "mrp": 15709,
+        "discount_percent": 18,
+        "rating": 4.5,
+        "review_count": 722,
+        "top_reviews": [
+          {
+            "rating": 5,
+            "title": "Worth it",
+            "text": "Works well on both hard floors and carpets."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Noise level is reasonable for daily use."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Battery lasts long enough for a full room clean."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Auto mode is convenient and reliable."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Strong suction picks up dust and crumbs well."
+          }
+        ],
+        "specifications": {
+          "type": "Corded Upright",
+          "suction": "18000 Pa",
+          "bin_capacity": "0.8 L",
+          "battery": "30 min",
+          "weight": "2.1 kg",
+          "noise": "72 dB",
+          "filters": "Multi-cyclone",
+          "features": [
+            "Pet hair mode",
+            "HEPA filtration",
+            "Auto-dock"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "Yes Bank",
+            "offer": "No-cost EMI for 6 months"
+          },
+          {
+            "bank": "HDFC Bank",
+            "offer": "Cashback of 10% up to 1000"
+          }
+        ],
+        "availability": "In stock"
+      },
+      {
+        "product_id": "vac_005",
+        "title": "CleanWave Neo Pro",
+        "brand": "CleanWave",
+        "category": "vacuum cleaner",
+        "price": 7087,
+        "mrp": 8338,
+        "discount_percent": 15,
+        "rating": 4.6,
+        "review_count": 389,
+        "top_reviews": [
+          {
+            "rating": 5,
+            "title": "Worth it",
+            "text": "Lightweight design makes cleaning easier."
+          },
+          {
+            "rating": 5,
+            "title": "Solid pick",
+            "text": "Works well on both hard floors and carpets."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Accessories are useful for corners and upholstery."
+          },
+          {
+            "rating": 5,
+            "title": "Good value",
+            "text": "Strong suction picks up dust and crumbs well."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Noise level is reasonable for daily use."
+          }
+        ],
+        "specifications": {
+          "type": "Robot Vacuum",
+          "suction": "25000 Pa",
+          "bin_capacity": "0.6 L",
+          "battery": "90 min",
+          "weight": "4.6 kg",
+          "noise": "72 dB",
+          "filters": "HEPA",
+          "features": [
+            "Pet hair mode",
+            "Auto-dock",
+            "Edge cleaning"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "Axis Bank",
+            "offer": "No-cost EMI for 9 months"
+          },
+          {
+            "bank": "Yes Bank",
+            "offer": "No-cost EMI for 12 months"
+          }
+        ],
+        "availability": "Limited stock"
+      },
+      {
+        "product_id": "vac_006",
+        "title": "DustAway Smart Plus",
+        "brand": "DustAway",
+        "category": "vacuum cleaner",
+        "price": 13728,
+        "mrp": 16151,
+        "discount_percent": 15,
+        "rating": 4.7,
+        "review_count": 1893,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Accessories are useful for corners and upholstery."
+          },
+          {
+            "rating": 5,
+            "title": "Solid pick",
+            "text": "Auto mode is convenient and reliable."
+          },
+          {
+            "rating": 5,
+            "title": "Nice purchase",
+            "text": "Strong suction picks up dust and crumbs well."
+          },
+          {
+            "rating": 5,
+            "title": "Good value",
+            "text": "Works well on both hard floors and carpets."
+          },
+          {
+            "rating": 5,
+            "title": "Recommended",
+            "text": "Lightweight design makes cleaning easier."
+          }
+        ],
+        "specifications": {
+          "type": "Robot Vacuum",
+          "suction": "22000 Pa",
+          "bin_capacity": "0.8 L",
+          "battery": "45 min",
+          "weight": "2.1 kg",
+          "noise": "68 dB",
+          "filters": "Washable filter",
+          "features": [
+            "Edge cleaning",
+            "Wet mop",
+            "HEPA filtration"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "Yes Bank",
+            "offer": "No-cost EMI for 3 months"
+          },
+          {
+            "bank": "Axis Bank",
+            "offer": "Cashback of 7% up to 2000"
+          }
+        ],
+        "availability": "In stock"
+      },
+      {
+        "product_id": "vac_007",
+        "title": "VacuPro Smart Plus",
+        "brand": "VacuPro",
+        "category": "vacuum cleaner",
+        "price": 7298,
+        "mrp": 8293,
+        "discount_percent": 12,
+        "rating": 4.0,
+        "review_count": 2398,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Dustbin is easy to empty and clean."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Lightweight design makes cleaning easier."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Noise level is reasonable for daily use."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Strong suction picks up dust and crumbs well."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Works well on both hard floors and carpets."
+          }
+        ],
+        "specifications": {
+          "type": "Corded Upright",
+          "suction": "18000 Pa",
+          "bin_capacity": "0.6 L",
+          "battery": "60 min",
+          "weight": "2.1 kg",
+          "noise": "68 dB",
+          "filters": "HEPA",
+          "features": [
+            "HEPA filtration",
+            "Pet hair mode",
+            "Auto-dock"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "Yes Bank",
+            "offer": "No-cost EMI for 9 months"
+          },
+          {
+            "bank": "Axis Bank",
+            "offer": "Instant discount of 5% up to 1500"
+          }
+        ],
+        "availability": "Preorder"
+      },
+      {
+        "product_id": "vac_008",
+        "title": "DustAway Neo S",
+        "brand": "DustAway",
+        "category": "vacuum cleaner",
+        "price": 14821,
+        "mrp": 19761,
+        "discount_percent": 25,
+        "rating": 4.0,
+        "review_count": 991,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Works well on both hard floors and carpets."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Noise level is reasonable for daily use."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Accessories are useful for corners and upholstery."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Dustbin is easy to empty and clean."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Strong suction picks up dust and crumbs well."
+          }
+        ],
+        "specifications": {
+          "type": "Robot Vacuum",
+          "suction": "18000 Pa",
+          "bin_capacity": "1.2 L",
+          "battery": "30 min",
+          "weight": "2.8 kg",
+          "noise": "68 dB",
+          "filters": "Washable filter",
+          "features": [
+            "Wet mop",
+            "Edge cleaning",
+            "Pet hair mode"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "ICICI Bank",
+            "offer": "Additional 10% off on select cards"
+          },
+          {
+            "bank": "Yes Bank",
+            "offer": "Instant discount of 12% up to 1500"
+          }
+        ],
+        "availability": "In stock"
+      },
+      {
+        "product_id": "vac_009",
+        "title": "PureSweep Neo Plus",
+        "brand": "PureSweep",
+        "category": "vacuum cleaner",
+        "price": 17838,
+        "mrp": 19389,
+        "discount_percent": 8,
+        "rating": 4.2,
+        "review_count": 1960,
+        "top_reviews": [
+          {
+            "rating": 5,
+            "title": "Worth it",
+            "text": "Accessories are useful for corners and upholstery."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Dustbin is easy to empty and clean."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Battery lasts long enough for a full room clean."
+          },
+          {
+            "rating": 5,
+            "title": "Good value",
+            "text": "Noise level is reasonable for daily use."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Works well on both hard floors and carpets."
+          }
+        ],
+        "specifications": {
+          "type": "Robot Vacuum",
+          "suction": "25000 Pa",
+          "bin_capacity": "0.8 L",
+          "battery": "60 min",
+          "weight": "2.1 kg",
+          "noise": "68 dB",
+          "filters": "Washable filter",
+          "features": [
+            "Pet hair mode",
+            "HEPA filtration",
+            "Wet mop"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "Kotak Bank",
+            "offer": "No-cost EMI for 6 months"
+          },
+          {
+            "bank": "SBI Card",
+            "offer": "Instant discount of 12% up to 5000"
+          }
+        ],
+        "availability": "Preorder"
+      },
+      {
+        "product_id": "vac_010",
+        "title": "VacuPro Neo",
+        "brand": "VacuPro",
+        "category": "vacuum cleaner",
+        "price": 18310,
+        "mrp": 19902,
+        "discount_percent": 8,
+        "rating": 4.0,
+        "review_count": 1706,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Dustbin is easy to empty and clean."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Strong suction picks up dust and crumbs well."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Battery lasts long enough for a full room clean."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Accessories are useful for corners and upholstery."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Works well on both hard floors and carpets."
+          }
+        ],
+        "specifications": {
+          "type": "Corded Upright",
+          "suction": "18000 Pa",
+          "bin_capacity": "0.4 L",
+          "battery": "90 min",
+          "weight": "2.1 kg",
+          "noise": "68 dB",
+          "filters": "Washable filter",
+          "features": [
+            "Auto-dock",
+            "HEPA filtration",
+            "Wet mop"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "Kotak Bank",
+            "offer": "Exchange bonus up to 2500"
+          },
+          {
+            "bank": "Axis Bank",
+            "offer": "Additional 5% off on select cards"
+          }
+        ],
+        "availability": "Limited stock"
+      }
+    ]
+  },
+  "water bottle": {
+    "search_term": "water bottle",
+    "products": [
+      {
+        "product_id": "wat_001",
+        "title": "FlowMate Sport S",
+        "brand": "FlowMate",
+        "category": "water bottle",
+        "price": 2300,
+        "mrp": 2556,
+        "discount_percent": 10,
+        "rating": 4.1,
+        "review_count": 213,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Easy to clean and carry every day."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Looks simple but functional."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Keeps water cold for many hours."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Good value for the price."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Material feels sturdy and safe."
+          }
+        ],
+        "specifications": {
+          "capacity": "1 L",
+          "material": "Aluminium",
+          "insulation": "Vacuum Insulated",
+          "keep_cold": "24 hours",
+          "keep_hot": "8 hours",
+          "weight": "240 g",
+          "lid": "Straw Lid",
+          "features": [
+            "Leak proof",
+            "Wide mouth",
+            "Carry loop"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "Kotak Bank",
+            "offer": "Additional 10% off on select cards"
+          },
+          {
+            "bank": "Yes Bank",
+            "offer": "Exchange bonus up to 5000"
+          }
+        ],
+        "availability": "In stock"
+      },
+      {
+        "product_id": "wat_002",
+        "title": "FlowMate Daily S",
+        "brand": "FlowMate",
+        "category": "water bottle",
+        "price": 325,
+        "mrp": 361,
+        "discount_percent": 10,
+        "rating": 4.2,
+        "review_count": 1363,
+        "top_reviews": [
+          {
+            "rating": 5,
+            "title": "Worth it",
+            "text": "Easy to clean and carry every day."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Keeps water cold for many hours."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Material feels sturdy and safe."
+          },
+          {
+            "rating": 5,
+            "title": "Good value",
+            "text": "Good value for the price."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Size is convenient for commuting and office use."
+          }
+        ],
+        "specifications": {
+          "capacity": "500 ml",
+          "material": "Glass",
+          "insulation": "Double Wall",
+          "keep_cold": "18 hours",
+          "keep_hot": "8 hours",
+          "weight": "240 g",
+          "lid": "Screw Cap",
+          "features": [
+            "Wide mouth",
+            "Dishwasher safe",
+            "Leak proof"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "Yes Bank",
+            "offer": "Exchange bonus up to 1500"
+          },
+          {
+            "bank": "Axis Bank",
+            "offer": "Instant discount of 5% up to 7500"
+          }
+        ],
+        "availability": "In stock"
+      },
+      {
+        "product_id": "wat_003",
+        "title": "AquaTrail Daily S",
+        "brand": "AquaTrail",
+        "category": "water bottle",
+        "price": 2497,
+        "mrp": 2837,
+        "discount_percent": 12,
+        "rating": 4.2,
+        "review_count": 1246,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Easy to clean and carry every day."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "No leakage even when carried in a backpack."
+          },
+          {
+            "rating": 5,
+            "title": "Nice purchase",
+            "text": "Material feels sturdy and safe."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Good value for the price."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Cap design is practical and secure."
+          }
+        ],
+        "specifications": {
+          "capacity": "1 L",
+          "material": "Stainless Steel",
+          "insulation": "Vacuum Insulated",
+          "keep_cold": "24 hours",
+          "keep_hot": "8 hours",
+          "weight": "180 g",
+          "lid": "Flip Top",
+          "features": [
+            "Wide mouth",
+            "Carry loop",
+            "Leak proof"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "HDFC Bank",
+            "offer": "Cashback of 10% up to 5000"
+          },
+          {
+            "bank": "Axis Bank",
+            "offer": "Additional 10% off on select cards"
+          }
+        ],
+        "availability": "Preorder"
+      },
+      {
+        "product_id": "wat_004",
+        "title": "SipSure Sport Pro",
+        "brand": "SipSure",
+        "category": "water bottle",
+        "price": 2416,
+        "mrp": 2842,
+        "discount_percent": 15,
+        "rating": 4.4,
+        "review_count": 1662,
+        "top_reviews": [
+          {
+            "rating": 5,
+            "title": "Worth it",
+            "text": "Easy to clean and carry every day."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Cap design is practical and secure."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Keeps water cold for many hours."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Looks simple but functional."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Good value for the price."
+          }
+        ],
+        "specifications": {
+          "capacity": "1 L",
+          "material": "Stainless Steel",
+          "insulation": "Double Wall",
+          "keep_cold": "8 hours",
+          "keep_hot": "8 hours",
+          "weight": "180 g",
+          "lid": "Straw Lid",
+          "features": [
+            "Dishwasher safe",
+            "Wide mouth",
+            "Carry loop"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "SBI Card",
+            "offer": "Cashback of 5% up to 2000"
+          },
+          {
+            "bank": "Yes Bank",
+            "offer": "No-cost EMI for 9 months"
+          }
+        ],
+        "availability": "Preorder"
+      },
+      {
+        "product_id": "wat_005",
+        "title": "FlowMate Thermo",
+        "brand": "FlowMate",
+        "category": "water bottle",
+        "price": 2695,
+        "mrp": 3063,
+        "discount_percent": 12,
+        "rating": 4.2,
+        "review_count": 169,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Cap design is practical and secure."
+          },
+          {
+            "rating": 5,
+            "title": "Solid pick",
+            "text": "Size is convenient for commuting and office use."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "No leakage even when carried in a backpack."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Keeps water cold for many hours."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Material feels sturdy and safe."
+          }
+        ],
+        "specifications": {
+          "capacity": "1 L",
+          "material": "BPA-free Plastic",
+          "insulation": "Double Wall",
+          "keep_cold": "24 hours",
+          "keep_hot": "6 hours",
+          "weight": "320 g",
+          "lid": "Flip Top",
+          "features": [
+            "Dishwasher safe",
+            "Wide mouth",
+            "Carry loop"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "HDFC Bank",
+            "offer": "Cashback of 5% up to 1000"
+          },
+          {
+            "bank": "SBI Card",
+            "offer": "Cashback of 7% up to 500"
+          }
+        ],
+        "availability": "In stock"
+      },
+      {
+        "product_id": "wat_006",
+        "title": "FlowMate Thermo Pro",
+        "brand": "FlowMate",
+        "category": "water bottle",
+        "price": 599,
+        "mrp": 799,
+        "discount_percent": 25,
+        "rating": 3.8,
+        "review_count": 1502,
+        "top_reviews": [
+          {
+            "rating": 3,
+            "title": "Worth it",
+            "text": "Material feels sturdy and safe."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Cap design is practical and secure."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Looks simple but functional."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Size is convenient for commuting and office use."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Keeps water cold for many hours."
+          }
+        ],
+        "specifications": {
+          "capacity": "750 ml",
+          "material": "Glass",
+          "insulation": "Single Wall",
+          "keep_cold": "12 hours",
+          "keep_hot": "8 hours",
+          "weight": "180 g",
+          "lid": "Screw Cap",
+          "features": [
+            "Wide mouth",
+            "Dishwasher safe",
+            "Leak proof"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "HDFC Bank",
+            "offer": "Cashback of 5% up to 2000"
+          },
+          {
+            "bank": "Kotak Bank",
+            "offer": "Instant discount of 7% up to 1000"
+          }
+        ],
+        "availability": "Preorder"
+      },
+      {
+        "product_id": "wat_007",
+        "title": "HydraZen Trail S",
+        "brand": "HydraZen",
+        "category": "water bottle",
+        "price": 2858,
+        "mrp": 3485,
+        "discount_percent": 18,
+        "rating": 4.3,
+        "review_count": 503,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "No leakage even when carried in a backpack."
+          },
+          {
+            "rating": 5,
+            "title": "Solid pick",
+            "text": "Material feels sturdy and safe."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Size is convenient for commuting and office use."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Good value for the price."
+          },
+          {
+            "rating": 5,
+            "title": "Recommended",
+            "text": "Keeps water cold for many hours."
+          }
+        ],
+        "specifications": {
+          "capacity": "750 ml",
+          "material": "Aluminium",
+          "insulation": "Double Wall",
+          "keep_cold": "12 hours",
+          "keep_hot": "8 hours",
+          "weight": "320 g",
+          "lid": "Straw Lid",
+          "features": [
+            "Wide mouth",
+            "Carry loop",
+            "Leak proof"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "Axis Bank",
+            "offer": "Instant discount of 5% up to 2000"
+          },
+          {
+            "bank": "Yes Bank",
+            "offer": "Instant discount of 7% up to 1500"
+          }
+        ],
+        "availability": "Limited stock"
+      },
+      {
+        "product_id": "wat_008",
+        "title": "FlowMate Thermo Plus",
+        "brand": "FlowMate",
+        "category": "water bottle",
+        "price": 1649,
+        "mrp": 1832,
+        "discount_percent": 10,
+        "rating": 4.5,
+        "review_count": 478,
+        "top_reviews": [
+          {
+            "rating": 5,
+            "title": "Worth it",
+            "text": "Good value for the price."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Keeps water cold for many hours."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Looks simple but functional."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Cap design is practical and secure."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Size is convenient for commuting and office use."
+          }
+        ],
+        "specifications": {
+          "capacity": "1 L",
+          "material": "Glass",
+          "insulation": "Single Wall",
+          "keep_cold": "18 hours",
+          "keep_hot": "12 hours",
+          "weight": "240 g",
+          "lid": "Straw Lid",
+          "features": [
+            "Leak proof",
+            "Dishwasher safe",
+            "Carry loop"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "Kotak Bank",
+            "offer": "Cashback of 7% up to 2000"
+          },
+          {
+            "bank": "Yes Bank",
+            "offer": "No-cost EMI for 3 months"
+          }
+        ],
+        "availability": "In stock"
+      },
+      {
+        "product_id": "wat_009",
+        "title": "AquaTrail Thermo Plus",
+        "brand": "AquaTrail",
+        "category": "water bottle",
+        "price": 1386,
+        "mrp": 1690,
+        "discount_percent": 18,
+        "rating": 3.7,
+        "review_count": 2024,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Easy to clean and carry every day."
+          },
+          {
+            "rating": 3,
+            "title": "Solid pick",
+            "text": "Size is convenient for commuting and office use."
+          },
+          {
+            "rating": 3,
+            "title": "Nice purchase",
+            "text": "Cap design is practical and secure."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Material feels sturdy and safe."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Keeps water cold for many hours."
+          }
+        ],
+        "specifications": {
+          "capacity": "1.5 L",
+          "material": "Aluminium",
+          "insulation": "Double Wall",
+          "keep_cold": "12 hours",
+          "keep_hot": "12 hours",
+          "weight": "180 g",
+          "lid": "Spout Lid",
+          "features": [
+            "Wide mouth",
+            "Leak proof",
+            "Carry loop"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "Axis Bank",
+            "offer": "No-cost EMI for 9 months"
+          },
+          {
+            "bank": "Yes Bank",
+            "offer": "Exchange bonus up to 2500"
+          }
+        ],
+        "availability": "Preorder"
+      },
+      {
+        "product_id": "wat_010",
+        "title": "FlowMate Pure Plus",
+        "brand": "FlowMate",
+        "category": "water bottle",
+        "price": 427,
+        "mrp": 485,
+        "discount_percent": 12,
+        "rating": 4.1,
+        "review_count": 1691,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Keeps water cold for many hours."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Good value for the price."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "No leakage even when carried in a backpack."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Easy to clean and carry every day."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Cap design is practical and secure."
+          }
+        ],
+        "specifications": {
+          "capacity": "1.5 L",
+          "material": "Glass",
+          "insulation": "Single Wall",
+          "keep_cold": "24 hours",
+          "keep_hot": "6 hours",
+          "weight": "320 g",
+          "lid": "Screw Cap",
+          "features": [
+            "Wide mouth",
+            "Dishwasher safe",
+            "Carry loop"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "HDFC Bank",
+            "offer": "Exchange bonus up to 2500"
+          },
+          {
+            "bank": "Axis Bank",
+            "offer": "Additional 10% off on select cards"
+          }
+        ],
+        "availability": "In stock"
+      }
+    ]
+  },
+  "headphones": {
+    "search_term": "headphones",
+    "products": [
+      {
+        "product_id": "hea_001",
+        "title": "PulsePro One Pro",
+        "brand": "PulsePro",
+        "category": "headphones",
+        "price": 9929,
+        "mrp": 15275,
+        "discount_percent": 35,
+        "rating": 4.1,
+        "review_count": 1358,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Comfortable to wear for long periods."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Noise cancellation helps in busy places."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Battery life is better than expected."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Microphone quality is decent for calls."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Great value for casual listening."
+          }
+        ],
+        "specifications": {
+          "type": "Over-ear",
+          "battery": "30 hours",
+          "noise_cancelation": "No",
+          "connectivity": "Bluetooth 5.2",
+          "water_resistance": "IPX5",
+          "weight": "290 g",
+          "features": [
+            "Touch controls",
+            "Voice assistant support",
+            "Multipoint connection"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "SBI Card",
+            "offer": "Additional 5% off on select cards"
+          },
+          {
+            "bank": "Yes Bank",
+            "offer": "Additional 10% off on select cards"
+          }
+        ],
+        "availability": "In stock"
+      },
+      {
+        "product_id": "hea_002",
+        "title": "AuraAudio X",
+        "brand": "AuraAudio",
+        "category": "headphones",
+        "price": 8378,
+        "mrp": 11170,
+        "discount_percent": 25,
+        "rating": 4.2,
+        "review_count": 1562,
+        "top_reviews": [
+          {
+            "rating": 5,
+            "title": "Worth it",
+            "text": "Sound quality is clear with solid bass."
+          },
+          {
+            "rating": 5,
+            "title": "Solid pick",
+            "text": "Battery life is better than expected."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Controls are easy to use."
+          },
+          {
+            "rating": 5,
+            "title": "Good value",
+            "text": "Great value for casual listening."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Bluetooth connection is stable and quick."
+          }
+        ],
+        "specifications": {
+          "type": "Over-ear",
+          "battery": "50 hours",
+          "noise_cancelation": "No",
+          "connectivity": "Bluetooth 5.3",
+          "water_resistance": "IPX7",
+          "weight": "24 g",
+          "features": [
+            "Touch controls",
+            "Mic",
+            "Fast charging"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "SBI Card",
+            "offer": "Instant discount of 12% up to 5000"
+          },
+          {
+            "bank": "Kotak Bank",
+            "offer": "Cashback of 10% up to 5000"
+          }
+        ],
+        "availability": "In stock"
+      },
+      {
+        "product_id": "hea_003",
+        "title": "PulsePro Air Plus",
+        "brand": "PulsePro",
+        "category": "headphones",
+        "price": 16064,
+        "mrp": 24714,
+        "discount_percent": 35,
+        "rating": 4.7,
+        "review_count": 669,
+        "top_reviews": [
+          {
+            "rating": 5,
+            "title": "Worth it",
+            "text": "Microphone quality is decent for calls."
+          },
+          {
+            "rating": 5,
+            "title": "Solid pick",
+            "text": "Sound quality is clear with solid bass."
+          },
+          {
+            "rating": 5,
+            "title": "Nice purchase",
+            "text": "Bluetooth connection is stable and quick."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Comfortable to wear for long periods."
+          },
+          {
+            "rating": 5,
+            "title": "Recommended",
+            "text": "Battery life is better than expected."
+          }
+        ],
+        "specifications": {
+          "type": "In-ear",
+          "battery": "40 hours",
+          "noise_cancelation": "Yes",
+          "connectivity": "Bluetooth 5.4",
+          "water_resistance": "IPX7",
+          "weight": "24 g",
+          "features": [
+            "Touch controls",
+            "Fast charging",
+            "Voice assistant support"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "Kotak Bank",
+            "offer": "Cashback of 10% up to 5000"
+          },
+          {
+            "bank": "Axis Bank",
+            "offer": "No-cost EMI for 6 months"
+          }
+        ],
+        "availability": "Limited stock"
+      },
+      {
+        "product_id": "hea_004",
+        "title": "BeatLoop Neo Pro",
+        "brand": "BeatLoop",
+        "category": "headphones",
+        "price": 15406,
+        "mrp": 23702,
+        "discount_percent": 35,
+        "rating": 4.6,
+        "review_count": 2003,
+        "top_reviews": [
+          {
+            "rating": 5,
+            "title": "Worth it",
+            "text": "Battery life is better than expected."
+          },
+          {
+            "rating": 5,
+            "title": "Solid pick",
+            "text": "Microphone quality is decent for calls."
+          },
+          {
+            "rating": 5,
+            "title": "Nice purchase",
+            "text": "Noise cancellation helps in busy places."
+          },
+          {
+            "rating": 5,
+            "title": "Good value",
+            "text": "Sound quality is clear with solid bass."
+          },
+          {
+            "rating": 5,
+            "title": "Recommended",
+            "text": "Controls are easy to use."
+          }
+        ],
+        "specifications": {
+          "type": "Over-ear",
+          "battery": "20 hours",
+          "noise_cancelation": "Adaptive",
+          "connectivity": "Bluetooth 5.4",
+          "water_resistance": "IPX4",
+          "weight": "210 g",
+          "features": [
+            "Mic",
+            "Fast charging",
+            "Multipoint connection"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "ICICI Bank",
+            "offer": "Cashback of 5% up to 2000"
+          },
+          {
+            "bank": "Kotak Bank",
+            "offer": "Instant discount of 12% up to 5000"
+          }
+        ],
+        "availability": "Limited stock"
+      },
+      {
+        "product_id": "hea_005",
+        "title": "BeatLoop Max",
+        "brand": "BeatLoop",
+        "category": "headphones",
+        "price": 6206,
+        "mrp": 8274,
+        "discount_percent": 25,
+        "rating": 4.7,
+        "review_count": 918,
+        "top_reviews": [
+          {
+            "rating": 5,
+            "title": "Worth it",
+            "text": "Sound quality is clear with solid bass."
+          },
+          {
+            "rating": 5,
+            "title": "Solid pick",
+            "text": "Noise cancellation helps in busy places."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Great value for casual listening."
+          },
+          {
+            "rating": 5,
+            "title": "Good value",
+            "text": "Controls are easy to use."
+          },
+          {
+            "rating": 5,
+            "title": "Recommended",
+            "text": "Battery life is better than expected."
+          }
+        ],
+        "specifications": {
+          "type": "On-ear",
+          "battery": "50 hours",
+          "noise_cancelation": "Yes",
+          "connectivity": "Bluetooth 5.3",
+          "water_resistance": "IPX4",
+          "weight": "210 g",
+          "features": [
+            "Mic",
+            "Voice assistant support",
+            "Multipoint connection"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "HDFC Bank",
+            "offer": "Exchange bonus up to 1000"
+          },
+          {
+            "bank": "SBI Card",
+            "offer": "Cashback of 7% up to 500"
+          }
+        ],
+        "availability": "Limited stock"
+      },
+      {
+        "product_id": "hea_006",
+        "title": "PulsePro One",
+        "brand": "PulsePro",
+        "category": "headphones",
+        "price": 11295,
+        "mrp": 17377,
+        "discount_percent": 35,
+        "rating": 4.3,
+        "review_count": 1396,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Noise cancellation helps in busy places."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Microphone quality is decent for calls."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Comfortable to wear for long periods."
+          },
+          {
+            "rating": 5,
+            "title": "Good value",
+            "text": "Battery life is better than expected."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Great value for casual listening."
+          }
+        ],
+        "specifications": {
+          "type": "On-ear",
+          "battery": "20 hours",
+          "noise_cancelation": "No",
+          "connectivity": "Bluetooth 5.4",
+          "water_resistance": "IPX5",
+          "weight": "145 g",
+          "features": [
+            "Multipoint connection",
+            "Voice assistant support",
+            "Touch controls"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "Yes Bank",
+            "offer": "Cashback of 7% up to 5000"
+          },
+          {
+            "bank": "HDFC Bank",
+            "offer": "Instant discount of 10% up to 7500"
+          }
+        ],
+        "availability": "In stock"
+      },
+      {
+        "product_id": "hea_007",
+        "title": "BeatLoop One S",
+        "brand": "BeatLoop",
+        "category": "headphones",
+        "price": 1878,
+        "mrp": 2210,
+        "discount_percent": 15,
+        "rating": 3.9,
+        "review_count": 1773,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Noise cancellation helps in busy places."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Sound quality is clear with solid bass."
+          },
+          {
+            "rating": 3,
+            "title": "Nice purchase",
+            "text": "Battery life is better than expected."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Microphone quality is decent for calls."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Great value for casual listening."
+          }
+        ],
+        "specifications": {
+          "type": "In-ear",
+          "battery": "50 hours",
+          "noise_cancelation": "Adaptive",
+          "connectivity": "Bluetooth 5.2",
+          "water_resistance": "IPX7",
+          "weight": "210 g",
+          "features": [
+            "Touch controls",
+            "Mic",
+            "Multipoint connection"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "SBI Card",
+            "offer": "Exchange bonus up to 5000"
+          },
+          {
+            "bank": "HDFC Bank",
+            "offer": "Instant discount of 10% up to 1000"
+          }
+        ],
+        "availability": "Limited stock"
+      },
+      {
+        "product_id": "hea_008",
+        "title": "AuraAudio Air S",
+        "brand": "AuraAudio",
+        "category": "headphones",
+        "price": 16596,
+        "mrp": 20745,
+        "discount_percent": 20,
+        "rating": 3.9,
+        "review_count": 1554,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Great value for casual listening."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Battery life is better than expected."
+          },
+          {
+            "rating": 3,
+            "title": "Nice purchase",
+            "text": "Noise cancellation helps in busy places."
+          },
+          {
+            "rating": 3,
+            "title": "Good value",
+            "text": "Sound quality is clear with solid bass."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Controls are easy to use."
+          }
+        ],
+        "specifications": {
+          "type": "Over-ear",
+          "battery": "50 hours",
+          "noise_cancelation": "Yes",
+          "connectivity": "Bluetooth 5.4",
+          "water_resistance": "IPX4",
+          "weight": "210 g",
+          "features": [
+            "Multipoint connection",
+            "Touch controls",
+            "Voice assistant support"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "SBI Card",
+            "offer": "Instant discount of 7% up to 500"
+          },
+          {
+            "bank": "Kotak Bank",
+            "offer": "Exchange bonus up to 1000"
+          }
+        ],
+        "availability": "Limited stock"
+      },
+      {
+        "product_id": "hea_009",
+        "title": "BeatLoop One",
+        "brand": "BeatLoop",
+        "category": "headphones",
+        "price": 5321,
+        "mrp": 7095,
+        "discount_percent": 25,
+        "rating": 4.3,
+        "review_count": 858,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Comfortable to wear for long periods."
+          },
+          {
+            "rating": 5,
+            "title": "Solid pick",
+            "text": "Battery life is better than expected."
+          },
+          {
+            "rating": 4,
+            "title": "Nice purchase",
+            "text": "Controls are easy to use."
+          },
+          {
+            "rating": 4,
+            "title": "Good value",
+            "text": "Noise cancellation helps in busy places."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Great value for casual listening."
+          }
+        ],
+        "specifications": {
+          "type": "On-ear",
+          "battery": "30 hours",
+          "noise_cancelation": "No",
+          "connectivity": "Bluetooth 5.2",
+          "water_resistance": "IPX5",
+          "weight": "210 g",
+          "features": [
+            "Multipoint connection",
+            "Fast charging",
+            "Touch controls"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "HDFC Bank",
+            "offer": "Additional 5% off on select cards"
+          },
+          {
+            "bank": "Axis Bank",
+            "offer": "Instant discount of 10% up to 1500"
+          }
+        ],
+        "availability": "In stock"
+      },
+      {
+        "product_id": "hea_010",
+        "title": "SoundVibe Air S",
+        "brand": "SoundVibe",
+        "category": "headphones",
+        "price": 18368,
+        "mrp": 24491,
+        "discount_percent": 25,
+        "rating": 4.3,
+        "review_count": 1061,
+        "top_reviews": [
+          {
+            "rating": 4,
+            "title": "Worth it",
+            "text": "Controls are easy to use."
+          },
+          {
+            "rating": 4,
+            "title": "Solid pick",
+            "text": "Great value for casual listening."
+          },
+          {
+            "rating": 5,
+            "title": "Nice purchase",
+            "text": "Bluetooth connection is stable and quick."
+          },
+          {
+            "rating": 5,
+            "title": "Good value",
+            "text": "Sound quality is clear with solid bass."
+          },
+          {
+            "rating": 4,
+            "title": "Recommended",
+            "text": "Comfortable to wear for long periods."
+          }
+        ],
+        "specifications": {
+          "type": "On-ear",
+          "battery": "40 hours",
+          "noise_cancelation": "Yes",
+          "connectivity": "Bluetooth 5.4",
+          "water_resistance": "IPX5",
+          "weight": "24 g",
+          "features": [
+            "Voice assistant support",
+            "Fast charging",
+            "Touch controls"
+          ]
+        },
+        "bank_offers": [
+          {
+            "bank": "ICICI Bank",
+            "offer": "Cashback of 10% up to 500"
+          },
+          {
+            "bank": "Kotak Bank",
+            "offer": "Instant discount of 7% up to 1000"
+          }
+        ],
+        "availability": "Preorder"
+      }
+    ]
+  }
+}
